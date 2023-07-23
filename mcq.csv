@@ -1,0 +1,6 @@
+Questions,Choice1,Choice2,Choice3,Choice4,Answer
+Concept stores information to be used later?,Conditional,Variable,Loop,Function,2
+Concept does something different depending on the situation?,Conditional,Variable,Loop,Function,1
+Concept repeats whatever is inside it?,Conditional,Variable,Loop,Function,3
+Data type can hold more than one value?,String,Integer,List,Boolean,3
+Data type would store the value: 6.4?,Float,Integer,List,Boolean,1
